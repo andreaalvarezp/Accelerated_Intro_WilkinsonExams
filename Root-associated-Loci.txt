@@ -783,19 +783,19 @@ AT5G65940
 AT5G66680
 AT5G66880
 AT5G67270
-CUD	cud-1
-CUD	cud-1
-DER2	der2
-DER5	der5
-DER6	der6
-DER7	der7
-DER8	der8
-LIT	lit-1
-LPI1	lpi1
-LPI2	lpi2
-LPI3	lpi3
-LPI4	lpi4
-MOP2	mop2
-RIB1	rib1
-SGR6	sgr6
-Binary fi
+CUD
+CUD
+DER2
+DER5
+DER6
+DER7
+DER8
+LIT
+LPI1
+LPI2
+LPI3
+LPI4
+MOP2
+RIB1
+SGR6
+Binary file Data_Only.csv matches
